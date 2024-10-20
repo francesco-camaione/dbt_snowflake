@@ -1,0 +1,4 @@
+example.py
+target/
+dbt_packages/
+logs/
